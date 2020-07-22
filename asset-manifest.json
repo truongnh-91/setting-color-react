@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/setting-color-react/static/css/main.88ebbd3d.chunk.css",
-    "main.js": "/setting-color-react/static/js/main.512dc8df.chunk.js",
-    "main.js.map": "/setting-color-react/static/js/main.512dc8df.chunk.js.map",
+    "main.js": "/setting-color-react/static/js/main.17387e07.chunk.js",
+    "main.js.map": "/setting-color-react/static/js/main.17387e07.chunk.js.map",
     "runtime-main.js": "/setting-color-react/static/js/runtime-main.bb36809e.js",
     "runtime-main.js.map": "/setting-color-react/static/js/runtime-main.bb36809e.js.map",
     "static/js/2.6f62947c.chunk.js": "/setting-color-react/static/js/2.6f62947c.chunk.js",
     "static/js/2.6f62947c.chunk.js.map": "/setting-color-react/static/js/2.6f62947c.chunk.js.map",
     "index.html": "/setting-color-react/index.html",
-    "precache-manifest.e35a7775926aad0f1d6dd02fd9d5f56b.js": "/setting-color-react/precache-manifest.e35a7775926aad0f1d6dd02fd9d5f56b.js",
+    "precache-manifest.051af24d4fc662e818c54a61d8c08626.js": "/setting-color-react/precache-manifest.051af24d4fc662e818c54a61d8c08626.js",
     "service-worker.js": "/setting-color-react/service-worker.js",
     "static/css/main.88ebbd3d.chunk.css.map": "/setting-color-react/static/css/main.88ebbd3d.chunk.css.map",
     "static/js/2.6f62947c.chunk.js.LICENSE.txt": "/setting-color-react/static/js/2.6f62947c.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.bb36809e.js",
     "static/js/2.6f62947c.chunk.js",
     "static/css/main.88ebbd3d.chunk.css",
-    "static/js/main.512dc8df.chunk.js"
+    "static/js/main.17387e07.chunk.js"
   ]
 }
